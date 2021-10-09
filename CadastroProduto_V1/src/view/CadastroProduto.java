@@ -178,7 +178,7 @@ public class CadastroProduto extends javax.swing.JFrame {
             
             list_nome.add(produto.getNome());
             list_quantidade.add(String.valueOf(produto.getQuantidade()));
-            list_valor.add("R$"+produto.getValor());
+            list_valor.add("R$"+String.format("%.2f", produto.getValor()));
             
             limparEntradas();
         }else{
