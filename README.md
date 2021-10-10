@@ -1,3 +1,3 @@
 # CadastroProduto
 
-<img src="CadastroProduto\CadastroProduto_V1\src\gif\gifCadastroProdutoV1.gif"/>
+<img src="CadastroProduto_V1\src\gif\gifCadastroProdutoV1.gif"/>
